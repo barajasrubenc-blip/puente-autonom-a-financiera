@@ -1,0 +1,17 @@
+PUENTE PARA LA AUTONOMÍA FINANCIERA — PROTOTIPO INICIAL
+
+PUBLICACIÓN GRATUITA EN GITHUB PAGES
+1. Crea un repositorio público en GitHub.
+2. Sube index.html, manifest.json, sw.js e icon.svg a la raíz.
+3. En Settings > Pages, selecciona Deploy from a branch, rama main y carpeta /(root).
+4. Guarda y espera a que GitHub Pages publique el enlace.
+
+IMPORTANTE
+- Es una primera versión funcional, todavía requiere pruebas antes de distribuirla.
+- Los movimientos y escenarios se guardan en el almacenamiento local del navegador.
+- Usa Respaldar datos para descargar una copia JSON e Importar respaldo para recuperarla.
+- La calculadora es una estimación; no incluye comisiones, seguros, impuestos ni cargos adicionales.
+- El interés compuesto usa mensualidades iguales con tasa mensual equivalente; el interés simple se calcula sobre el principal inicial y se divide en mensualidades iguales.
+- El directorio contiene portales institucionales generales y de alcaldías; verificar enlaces y agregar convocatorias específicas vigentes antes de distribuir.
+- El conversor requiere internet y consulta Frankfurter API.
+- La PWA necesita HTTPS y un navegador compatible para instalarse.
